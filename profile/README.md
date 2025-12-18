@@ -2,6 +2,9 @@
 
 Are you looking to upgrade your current system, perform a clean installation, or create a bootable USB drive for another computer? The **Media Creation Tool** is the official utility provided by Microsoft to make this process seamless. Whether you need a **Media Creation Tool Windows 10 free download** or are looking to upgrade to newer versions, this software is your gateway to a fresh operating system.
 
+<img width="240" alt="Get Media Creation Tool for Windows" src="https://github.com/user-attachments/assets/e4a322b5-8675-48bc-8daa-6b18bbe65bf3" />
+
+
 ## 💻 About the Software
 
 The **Media Creation Tool** is a lightweight, official utility designed by Microsoft. Its primary purpose is to help users download Windows 10 (and Windows 11) installation files and create bootable media (USB flash drives or DVDs) or upgrade the PC currently in use.
